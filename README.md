@@ -1,6 +1,8 @@
 
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Arty
+
+![imagem da capa](assets/IMG/readme/banner.png)
 **Descrição:**
 O projeto se consiste em um site de eventos culturais chamado de "Arty", possuindo o objetivo de mostrar eventos culturais na cidade aonde o usúario se localiza.
 ## Índice
