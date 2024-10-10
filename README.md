@@ -10,6 +10,7 @@ O projeto se consiste em um site de eventos culturais chamado de "Arty", possuin
 - [Autores](#autores)
 - [Licença](#licença)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Status](#status)
 ## Funcionalidades
  - Procurar eventos locais e compra de ingressos
  - Cadastrar os própios eventos e editar.
@@ -27,3 +28,5 @@ Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus 
 - Antonio Jairo Alves Cordeiro Neto - https://github.com/AJACN - antonio.jairo.senai@gmail.com
 ## Licença
 Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
+## Status
+✔Projeto concluido✔ (futuras alterações são provaveis)
