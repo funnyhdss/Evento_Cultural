@@ -13,7 +13,6 @@ O projeto se consiste em um site de eventos culturais chamado de "Arty", possuin
  - Acesso rapido para informações e de facil acesso e manuseio
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- Liste as principais tecnologias usadas no projeto, como por exemplo:
  - JavaScript
  - HTML
  - CSS
