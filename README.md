@@ -2,7 +2,7 @@
 ### Curso Técnico de Desenvolvimento de Sistemas - Senai Itapeva
 # Arty
 **Descrição:**
-O projeto se consiste em um site de eventos culturais chamado de "Arty", possuindo o objetivo de mostrar eventos culturai na cidade aonde o usúario se localiza.
+O projeto se consiste em um site de eventos culturais chamado de "Arty", possuindo o objetivo de mostrar eventos culturais na cidade aonde o usúario se localiza.
 ## Índice
 - Visual Studio Code
 - Heitor de Santana Schutz
