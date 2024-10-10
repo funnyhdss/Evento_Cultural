@@ -15,10 +15,10 @@ O projeto se consiste em um site de eventos culturais chamado de "Arty", possuin
  - Acesso rapido para informações e de facil acesso e manuseio
 ## Tecnologias Utilizadas
 - **Linguagem/Frameworks:**
- ![image] (https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![image] (https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![image] (https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+ ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+ ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ## Autores
 Mencione o nome dos alunos responsáveis pelo desenvolvimento do projeto e seus respectivos contatos.
 - Heitor de Santana Schutz - https://github.com/funnyhdss - heitor.schutz.senaisp@gmail.com
