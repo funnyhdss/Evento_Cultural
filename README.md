@@ -6,9 +6,10 @@
 **Descrição:**
 O projeto se consiste em um site de eventos culturais chamado de "Arty", possuindo o objetivo de mostrar eventos culturais na cidade aonde o usúario se localiza.
 ## Índice
-- Visual Studio Code
-- Feito por: Heitor de Santana Schutz
-- Licença
+- [Funcionalidades](#funcionalidades)
+- [Autores](#autores)
+- [Licença](#licença)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
 ## Funcionalidades
  - Procurar eventos locais e compra de ingressos
  - Cadastrar os própios eventos e editar.
